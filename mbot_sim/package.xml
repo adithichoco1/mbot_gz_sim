@@ -4,8 +4,8 @@
   <name>mbot_sim</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="adithig.me25@rvce.edu.in">adithi</maintainer>
-  <license> MIT Liscense </license>
+  <maintainer email="234905714+adithichoco1@users.noreply.github.com">adithi</maintainer>
+  <license>MIT</license>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
