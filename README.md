@@ -12,7 +12,7 @@ source install/setup.bash
 colcon build
 
 
-ros2 launch mbot_sim 
+ros2 launch mbot_sim turtlebot3_world.launch.py
 
 
 
